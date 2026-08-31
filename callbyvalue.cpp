@@ -7,7 +7,8 @@ void swap(int a, int b) {
 
     int temp = a;
     a = b;
-    b = temp;
+   
+   31`234567890- b = temp;
 
     std::cout << "After swap : x = " << a << " , y = " << b << endl;
 
